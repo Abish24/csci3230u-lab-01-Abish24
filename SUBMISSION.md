@@ -9,7 +9,7 @@ Abisherk Constantine
 
 ## What I learned
 
-The pull request feature of github. I've written issues before when working as a group, but haven't used pull requests or branches to this standard..
+The pull request feature of github. I've written issues before when working as a group, but haven't used pull requests or branches to this standard.
 
 ## A Git command I will remember
 
